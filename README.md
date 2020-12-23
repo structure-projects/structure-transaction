@@ -1,0 +1,2 @@
+# structure-transaction
+分布式事务协调框架主要应用于微服务,例如k8s中不能直接使用Seata，需要配合nacos来使用才可，而structure-transaction是可以直接注册到ServiceMesh，structure-transaction是模仿Seata中的AT 
